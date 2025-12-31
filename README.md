@@ -2,7 +2,7 @@
 **A Multi-Subnet Virtualized Environment for SOC Analysis and Penetration Testing**
 
 ## 👤 Author
-**Rukayat Mopelola Lawal** *Cybersecurity Professional & Network Architect*
+**Rukayat Mopelola Lawal** *Cybersecurity Professional*
 
 ---
 
