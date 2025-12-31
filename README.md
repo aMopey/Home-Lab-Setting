@@ -26,4 +26,7 @@ The lab is intentionally segmented into two distinct subnets—**Operations** an
 * **Firewall:** pfSense (Netgate) controlling all inter-subnet and WAN traffic.
 * **Virtualization:** Oracle VM VirtualBox.
 
+Connect with Me
+- **LinkedIn:** www.linkedin.com/in/rukayat-mopelola-lawal-0643205a
+- **email:** azeezmopelola@gmail.com
 ---
